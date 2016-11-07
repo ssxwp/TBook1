@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checked.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\drawable\\checked.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector01.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\drawable\\selector01.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector03.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\drawable\\selector03.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector02.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\drawable\\selector02.xml"
+    }
+]

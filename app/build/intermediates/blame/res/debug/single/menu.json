@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\regist.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\menu\\regist.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\book_detail.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\menu\\book_detail.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\address.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\menu\\address.xml"
+    }
+]

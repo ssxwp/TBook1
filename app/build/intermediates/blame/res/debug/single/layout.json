@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cart_lv_cartitem.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\item_cart_lv_cartitem.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_store_gv_book.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\item_store_gv_book.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_info.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\activity_order_info.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_address.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\item_lv_address.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_address.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\dialog_add_address.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_store.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\fragment_store.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_detail.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\activity_book_detail.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cartinfo_lv_cartitem.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\item_cartinfo_lv_cartitem.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regist.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\activity_regist.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "E:\\work\\TBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cart.xml",
+        "source": "E:\\work\\TBook1\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    }
+]
